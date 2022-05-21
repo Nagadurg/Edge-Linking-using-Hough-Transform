@@ -23,25 +23,7 @@ Anaconda - Python 3.7
 
 
 ## Program:
-```Python
-
-# Read image and convert it to grayscale image
-
-
-
-# Find the edges in the image using canny detector and display
-
-
-
-# Detect points that form a line using HoughLinesP
-
-
-
-# Draw lines on the image
-
-
-
-# Display the result
+`
 
 
 
